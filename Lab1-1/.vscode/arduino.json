@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:nano",
+    "port": "/dev/tty.wlan-debug",
+    "sketch": "Lab1-1.ino"
+}
