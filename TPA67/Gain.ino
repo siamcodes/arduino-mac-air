@@ -11,7 +11,6 @@ void getTag() {       //214/0       90/30
     } else if (T0 > Gainl && T3 > Gainr) {
       UTurn();
     }
-
 }
 
 // ใช้ตรวจสอบค่าเส้น Gain
